@@ -90,3 +90,36 @@ You can install the required packages using the following command:
 
 ```bash
 pip install -r requirements.txt
+```
+## Usage 🚀
+
+### Clone the Repository
+```bash
+git clone https://github.com/your-username/adversarial-attacks-on-digits.git
+cd LIME_INCEPTIONv3
+```
+### Run the Jupyter Notebook
+```bash
+jupyter notebook Adversarial_attacks_on_digits.ipynb
+```
+Follow the instructions in the notebook to train the model, perform adversarial attacks, and analyze the results.
+### Contributing 🤝
+Contributions are welcome! Follow these steps:
+1. Fork the repository
+2. Create a new branch:
+   ```bash
+   git checkout -b feature-name
+   ```
+3. Make your changes and commit:
+   ```bash
+   git commit -m "Add new feature"
+   ```
+4. Push to your branch:
+  ```bash
+  git push origin feature-name
+  ```
+5. Open a pull request on GitHub
+### License 📚
+This project is open-source.
+### 💡 Need Help?
+Feel free to reach out to me at [satyapavan30@gmail.com] for any questions or suggestions!
